@@ -7,6 +7,12 @@ I insist that the biggest datasets of biological problem lies in the huge biomed
 
 Enjoy your dinner :D
 
+# Feature
+1. Enhanced pubmed query api;
+2. automated basic data-analysis for your query result;
+
+
+
 # Install and dependency
 
 # Usage
