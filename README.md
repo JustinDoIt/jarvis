@@ -17,6 +17,20 @@ Enjoy your dinner :D
 
 # Usage
 
+
+# Roadmap
+ + Paper Extracting
+   + [x] PubMed API
+   + [ ] WoS API
+   + [ ] semanticscholar API 
+ + Analysis
+   + [x] Translate `en` to `zh`
+   + [ ] preprocessing
+     + [x] stopwords
+     + [x] stemming
+   + [x] word frequency analysis 
+   + [ ] NER
+ + Deployment
 # Discussion
 I insist that the biggest datasets of biological problem lies in the huge biomedical literatures. This is a huge dream and this is my little step.
 
